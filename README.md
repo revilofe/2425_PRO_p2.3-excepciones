@@ -2,7 +2,7 @@
 
 Apoyate en los siguientes recursos para realizar la práctica:
 
-[U2: 1. Sentencias iterativas](https://revilofe.github.io/section1/u02/practica/PROG-U2.-Practica002/)
+[U2: 3. Excepciones](https://revilofe.github.io/section1/u02/practica/PROG-U2.-Practica003/)
 
 ---
 
